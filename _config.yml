@@ -1,21 +1,21 @@
 # Site Settings
 baseurl: 		""
-title: 			Hashtag for Jekyll
+title: 			Data for Evil
 
-name: 			Hashtag <i>for</i> Jekyll
-description: 	A beautifully contemporary and elegant Jekyll theme
+name: 			Data for Evil
+description: 	Because the unreasonable effectiveness of data goes both ways
 url: 			"http://localhost:4000"
 
 paginate: 		3
 paginate_path: 	"blog/page:num"
 
-twitter: 		indiqo
+twitter: 		dataforevil
 email: 			hello@indiqo.eu
 
 disqus: 		your_disqus_shortname
 analytics: 		UA-XXXXXXX-Y
 
-copyright: 		Copyright 2014 Indiqo.	
+copyright: 		Copyright 2015 DataForEvil.	
 
 # Build Settings
 permalinks: 	pretty
